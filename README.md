@@ -70,14 +70,14 @@
   <br><br>
 </p>
 
-<br> <br>
+<br>
 
-###### CHAMA 👑
-
-<img src="https://media1.tenor.com/m/tUtkGwwZWOUAAAAd/alex-pereira-pereira.gif" width="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A2E,100:D4AF37&height=100&section=footer"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A2E,100:D4AF37&height=100&section=footer"/>
+###### *CHAMA* 🗣️👑
+
+<img src="https://media1.tenor.com/m/tUtkGwwZWOUAAAAd/alex-pereira-pereira.gif" width="300"/>
 
 </div>
