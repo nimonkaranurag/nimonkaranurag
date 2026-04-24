@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1A1A2E,100:D4AF37&height=200&section=header&text=anurag%20nimonkar&fontSize=56&fontColor=D4AF37&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<br><br><br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=2000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=35&lines=ai+godfather+%40+👁️🐝Ⓜ️;dublin+%F0%9F%87%AE%E2%80%8D%F0%9F%87%AA)](https://git.io/typing-svg)
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=F0EAD6&height=70&text=Top%20Reasons%20You%20Should%20Hire%20Me&fontSize=24&fontColor=2B2B2B&fontAlignY=50" width="620"/>
 
@@ -62,6 +66,14 @@ please DO NOT contact if:
   2. You do not have cash money
   3. u lame 😒
 ```
+
+<br> <br>
+
+###### CHAMA 👑
+
+<img src="https://media1.tenor.com/m/tUtkGwwZWOUAAAAd/alex-pereira-pereira.gif" width="300"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A2E,100:D4AF37&height=100&section=footer"/>
 
