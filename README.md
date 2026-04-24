@@ -59,13 +59,16 @@
 
 <br><br>
 
-```
-please DO NOT contact if:
-
-  1. YA BROKE ❌
-  2. You do not have cash money
-  3. u lame 😒
-```
+<p>
+  ✨ <i>please</i> do <b>NOT</b> contact if ✨
+  <br><br>
+  𝟏. YA BROKE ❌ 🤮
+  <br>
+  𝟐. you do not have cash money
+  <br>
+  𝟑. u lame 😒
+  <br><br>
+</p>
 
 <br> <br>
 
